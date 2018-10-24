@@ -7,7 +7,7 @@ years: [2018]
 ---
 **Classification of phonemes using neural recordings**
 
-Advisors: William Spiek, Abeer Alwan
+Advisors: William Speier, Abeer Alwan
 
 Preliminary analysis of multi-electrode LFP signals using machine learning to recognize differentiating neural channels for phoneme classification.
 
