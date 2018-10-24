@@ -4,7 +4,7 @@
 name: Janaki Sheth
 email: janaki.sheth@physics.ucla.edu
 
-url: JanakiSheth.github.io # the base hostname & protocol for your site
+url: https://janakisheth.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
