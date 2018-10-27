@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-I am a PhD candidate in Physics at UCLA. I work with Professors [Dolores Bozovic](http://www.pa.ucla.edu/directory/dolores-bozovic) and [Alex Levine](http://alevine.chem.ucla.edu/) on theoretical statistical biophysics. I additionally work with Professors [William Speier](https://mii.ucla.edu/people/wspeier/) and [Abeer Alwan](https://www.ee.ucla.edu/abeer-alwan/) on speech recognition and neural signal analysis.
+I work with Professors [Dolores Bozovic](http://www.pa.ucla.edu/directory/dolores-bozovic) and [Alex Levine](http://alevine.chem.ucla.edu/) on theoretical statistical biophysics. I additionally work with Professors [William Speier](https://mii.ucla.edu/people/wspeier/) and [Abeer Alwan](https://www.ee.ucla.edu/abeer-alwan/) on speech recognition and neural signal analysis.
 
 I am interested in further pursuing speech processing and brain-computer interface using machine learning.
 
