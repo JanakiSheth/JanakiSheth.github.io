@@ -9,6 +9,8 @@ title: Publications
 * Nonequilibrium limit-cycle oscillators: Fluctuations in hair bundle
   dynamics <br> Sheth, Janaki, Meenderink, Sebastiaan W. F., Quiñones, Patricia
   M., Bozovic, Dolores, and Levine, Alex J. <br>*Phys. Rev. E,* 2018
+<br>
+* Noise-induced distortion of nonequilibrium oscillator mean limit cycle <br> Sheth, Janaki, Meenderink, Bozovic, Dolores, and Levine, Alex J. <br>*Arxiv Preprint, 	arXiv:1811.04056* 2018
 
 ### Talks
 
@@ -36,4 +38,3 @@ title: Publications
 * Micromagnetic Study of Magnetization reversal and Dipolar interactions in
   NiFe Nano Disks <br> Sheth, Janaki <br> *DAE Solid State Symposium, Dept. of
   Atomic Energy India,* 2012
-
