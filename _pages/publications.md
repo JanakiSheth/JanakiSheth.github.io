@@ -6,11 +6,11 @@ title: Publications
 
 ### Journal Papers
 
+* Noise-induced distortion of nonequilibrium oscillator mean limit cycle <br> Sheth, Janaki, Bozovic, Dolores, and Levine, Alex J. <br>*Arxiv: 1811.04056, accepted and under production at Phys. Rev. E,* 2019
+
 * Nonequilibrium limit-cycle oscillators: Fluctuations in hair bundle
   dynamics <br> Sheth, Janaki, Meenderink, Sebastiaan W. F., Quiñones, Patricia
   M., Bozovic, Dolores, and Levine, Alex J. <br>*Phys. Rev. E,* 2018
-
-* Noise-induced distortion of nonequilibrium oscillator mean limit cycle <br> Sheth, Janaki, Bozovic, Dolores, and Levine, Alex J. <br>*Arxiv: 1811.04056, accepted and under production at Phys. Rev. E,* 2019
 
 ### Peer-reviewed Conferences
 * Identifying input features for development of real-time translation of neural signals to text <br> Sheth, Janaki, Ariel Tankus, Michelle Tran, Lindy Comstock, Itzhak Fried and William Speier <br>*To appear at Interspeech,* 2019
