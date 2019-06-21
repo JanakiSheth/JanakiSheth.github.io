@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title:  Janaki Sheth
-description: <a href="">PhD Candidate in Physics at UCLA</a>.
+description: <a href="">PhD Candidate in Physics and visiting graduate student at Brain Computer Interface Lab at UCLA</a>.
 
 profile:
   align: right
@@ -16,8 +16,10 @@ news: false
 social: true
 ---
 
-I work with Professors [Dolores Bozovic](http://www.pa.ucla.edu/directory/dolores-bozovic) and [Alex Levine](http://alevine.chem.ucla.edu/) on theoretical statistical biophysics. I additionally work with Professors [William Speier](https://mii.ucla.edu/people/wspeier/) and [Abeer Alwan](https://www.ee.ucla.edu/abeer-alwan/) on speech recognition and neural signal analysis.
+I have been fortunate to work with Professors [Dolores Bozovic](http://www.pa.ucla.edu/directory/dolores-bozovic) and [Alex Levine](http://alevine.chem.ucla.edu/) on computational biophysics and statistical physics. I additionally collaborate with Professor [William Speier](https://mii.ucla.edu/people/wspeier/) on translating neural signals to text using machine learning and deep learning techniques.
 
-I am interested in further pursuing speech processing and brain-computer interface using machine learning.
+My interests lie at the intersection of statistical mechanics, machine learning and neuroscience.
 
-Previously, B.Tech from Indian Institute of Technology, Bombay.
+Previously, B.Tech from Indian Institute of Technology, Bombay with a major in Physics and minor in Electrical Engineering.
+
+My complete CV can be found [here](https://ucla.academia.edu/janakisheth/CurriculumVitae).
