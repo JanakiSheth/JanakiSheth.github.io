@@ -20,7 +20,7 @@ My graduate research is divided into two broad topics.
 <br>I. Nonequilibrium statistical mechanics of fluctuations in the inner ear<br>
 Developed a general framework to study effects of noise on non-equilibrium active limit cycle oscillators, specifically inner ear hair bundles, using principles drawn from dynamical systems, statistical mechanics and computational biophysics.
 
-<br>II. Modelling efferent connectivity in bullfrog sacculus<br>
+II. Modelling efferent connectivity in bullfrog sacculus<br>
 Building an expansive model that studies effects of modulation in efferent neural activity on the acute sensitivity of the bullfrog sacculus.
 
 ### Comparison of different deep neural network architectures in decoding speech-producing neural signals
