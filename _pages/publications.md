@@ -6,14 +6,14 @@ title: Publications
 
 ### Journal Papers
 
-* Noise-induced distortion of nonequilibrium oscillator mean limit cycle <br> Sheth, Janaki, Bozovic, Dolores, and Levine, Alex J. <br>*Phys. Rev. E 99, 062124,* 2019
+* [Noise-induced distortion of nonequilibrium oscillator mean limit cycle](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062124) <br> Sheth, Janaki, Bozovic, Dolores, and Levine, Alex J. <br>*Phys. Rev. E 99, 062124,* 2019
 
-* Nonequilibrium limit-cycle oscillators: Fluctuations in hair bundle
-  dynamics <br> Sheth, Janaki, Meenderink, Sebastiaan W. F., Quiñones, Patricia
-  M., Bozovic, Dolores, and Levine, Alex J. <br>*Phys. Rev. E,* 2018
+* [Nonequilibrium limit-cycle oscillators: Fluctuations in hair bundle
+  dynamics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062411) <br> Sheth, Janaki, Meenderink, Sebastiaan W. F., Quiñones, Patricia
+  M., Bozovic, Dolores, and Levine, Alex J. <br>*Phys. Rev. E 97, 062411,* 2018
 
 ### Peer-reviewed Conferences
-* Identifying input features for development of real-time translation of neural signals to text <br> Sheth, Janaki, Ariel Tankus, Michelle Tran, Lindy Comstock, Itzhak Fried and William Speier <br>* ([current version](https://www.academia.edu/39666821/Identifying_input_features_for_development_of_real-time_translation_of_neural_signals_to_text)) To appear at Interspeech,* 2019
+* Identifying input features for development of real-time translation of neural signals to text <br> Sheth, Janaki, Ariel Tankus, Michelle Tran, Lindy Comstock, Itzhak Fried and William Speier <br>*([current version](https://www.academia.edu/39666821/Identifying_input_features_for_development_of_real-time_translation_of_neural_signals_to_text)) To appear at Interspeech,* 2019
 
 * Translating neural signals to text using a Brain-Machine Interface <br> Sheth, Janaki <br>*To appear at Grace Hopper Celebration,* 2019
 
