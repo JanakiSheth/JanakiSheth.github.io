@@ -11,19 +11,21 @@ title: Publications
 * [Nonequilibrium limit-cycle oscillators: Fluctuations in hair bundle
   dynamics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062411) <br> 	J. Sheth, S.W.F. Meenderink, P. Qui\~nones, D. Bozovic, A.J. Levine. <br>*Phys. Rev. E 97, 062411,* 2018
 
+* [Translating neural signals to text using a Brain-Machine Interface](https://arxiv.org/abs/1907.04265) <br> 	J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier <br> *Under review, Arxiv preprint,* 2019
+
 ### Peer-reviewed Conferences
-* Translating neural singals to text using a Brain-Computer Interface <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*Selected to appear at NeurIPS Workshop on Neuro+AI,* 2019
+* [Translating neural singals to text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*Selected to appear at NeurIPS Workshop on Neuro+AI,* 2019
 
-* Identifying input features for development of real-time translation of neural signals to text <br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
+* [Identifying input features for development of real-time translation of neural signals to text](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3092.pdf) <br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
 
-* Translating neural signals to text using a Brain-Machine Interface <br> J. Sheth <br>*Grace Hopper Celebration Abstracts,* 2019
+* [Translating neural signals to text using a Brain-Machine Interface](https://ghc.anitab.org/2019-attend/schedule-overview/poster-session/#hci) <br> J. Sheth <br>*Grace Hopper Celebration Abstracts,* 2019
 
-* Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks <br>Sheth, Janaki <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2012
+* [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2012
 
 ### Talks
 * Mapping neural signals to text and Fluctuation analysis of the inner ear's active dynamics (invited) <br>*Computational Neuroscience Initiative Seminar, UPenn,* 2019
 
-* Fluctuation analysis of the inner ear$'$s active dynamics (invited) <br> *Otolaryngology - Head and Neck Surgery Divisions, Stanford,* 2019
+* Fluctuation analysis of the inner ear's active dynamics (invited) <br> *Otolaryngology - Head and Neck Surgery Divisions, Stanford,* 2019
 
 * Mapping neural signals to text and Fluctuation analysis of the inner ear's active dynamics (invited) *Chang Lab, UCSF,* 2019
 
