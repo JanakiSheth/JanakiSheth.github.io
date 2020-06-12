@@ -14,7 +14,6 @@ profile:
 
 news: false
 social: true
-header: true
 ---
 
 I have been fortunate to work with Professors [Dolores Bozovic](http://www.pa.ucla.edu/directory/dolores-bozovic) and [Alex Levine](http://alevine.chem.ucla.edu/) on computational biophysics and statistical physics. I additionally collaborate with Professor [William Speier](https://mii.ucla.edu/people/wspeier/) on translating neural signals to text using machine learning and deep learning techniques.
