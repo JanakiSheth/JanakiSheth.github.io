@@ -13,7 +13,7 @@ profile:
     <p>Los Angeles, CA 90095</p>
 
 news: false
-social: true
+#social: true
 header: true
 ---
 
