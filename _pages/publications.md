@@ -13,6 +13,8 @@ title: Publications
 
 * [Translating neural signals to text using a Brain-Machine Interface](https://arxiv.org/abs/1907.04265) <br> 	J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier <br> *Under review, Arxiv preprint,* 2019
 
+* [Violation of generalized fluctuation theorems in adaptively driven steady states: Applications to hair cell oscillations](https://arxiv.org/abs/2002.11854) <br> 	J. Sheth, D. Bozovic, A.J. Levine. <br> *Under review, Arxiv preprint,* 2020
+
 ### Peer-reviewed Conferences
 * [Translating neural singals to text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*Selected to appear at NeurIPS Workshop on Neuro+AI,* 2019
 
