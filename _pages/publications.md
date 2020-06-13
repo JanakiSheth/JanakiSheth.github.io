@@ -23,6 +23,11 @@ title: Publications
 * [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2012
 
 ### Talks
+
+* Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br>
+*American Physical Society Meeting, Denver* 2020  <br>
+(awarded the Shirley Chan student travel grant, APS DBio division and was a finalist, Student speaker award, APS GSNP division)
+
 * Mapping neural signals to text and Fluctuation analysis of the inner ear's active dynamics (invited) <br>*Computational Neuroscience Initiative Seminar, UPenn,* 2019
 
 * Fluctuation analysis of the inner ear's active dynamics (invited) <br> *Otolaryngology - Head and Neck Surgery Divisions, Stanford,* 2019
@@ -36,6 +41,11 @@ title: Publications
 * Using a fluctuation analysis of limit cycle oscillations in inner ear hair bundles as a new test of low dimensional dynamical models <br>J. Sheth, D. Bozovic, A. Levine.<br> *American Physical Society Meeting,* 2018
 
 ### Poster presentations
+
+* Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br> *International Physics of Living Systems Meeting, Georgia Tech (held online due to Covid)* 2020
+
+* Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br> *Berkeley State Mech meeting, UCB* 2020
+
 * Translating neural signals to text using a Brain-Machine Interface <br> *UC AI Biomed Conference, UCLA* 2019
 
 * Translating neural signals to text using a Brain-Machine Interface <br> *Joint Symposium on Neural Computation, USC,* 2019
