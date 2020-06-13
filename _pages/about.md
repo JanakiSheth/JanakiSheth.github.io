@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /about/
+permalink: /
 title:  Janaki Sheth
 description: <a href="">PhD Candidate in Physics and visiting graduate student at Brain Computer Interface Lab at UCLA</a>.
 
@@ -25,5 +25,3 @@ During my PhD years, I have been fortunate to work with Professors [Dolores Bozo
 My interests lie at the intersection of statistical mechanics, machine learning and neuroscience.
 
 Prior to this, I graduated with a B.Tech from Indian Institute of Technology, Bombay majoring in Engineering Physics and with a minor in Electrical Engineering. During that time I have had the wonderful opportunity to intern at the Indian Institute of Science (Bangalore), Ecole Polytechnique de Laussane (Switzerland) and Tata Institute of Fundamental Research (Bombay).
-
-# My complete CV can be found [here](https://ucla.academia.edu/janakisheth/CurriculumVitae).
