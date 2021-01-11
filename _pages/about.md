@@ -18,10 +18,12 @@ social: true
 header: true
 ---
 
-Currently, I am interning at IBM research in Yorktown Heights working on natural language processing.
+Currently, I am a postdoc in the Lab of Auditory Coding at Perelman School of Medicine, UPenn where I study how we process auditory information using bayesian models and network analysis.
 
-During my PhD years, I have been fortunate to work with Professors [Dolores Bozovic](http://www.pa.ucla.edu/directory/dolores-bozovic) and [Alex Levine](http://alevine.chem.ucla.edu/) on computational biophysics and statistical physics. Specifically we studied how the inner processes sounds into electrical signals using methods from non-equilibrium statistical mechanics. I additionally collaborated with Professor [William Speier](https://mii.ucla.edu/people/wspeier/) on a brain-machine interface project where we worked towards translating neural signals to text using machine learning and deep learning techniques.
+In summer 2020, I interned with the IBM NLP group in Yorktown Heights working on Abstract Meaning Representation. During my PhD years, I have been fortunate to work with Professors [Dolores Bozovic](http://www.pa.ucla.edu/directory/dolores-bozovic) and [Alex Levine](http://alevine.chem.ucla.edu/) on computational biophysics and statistical physics. Specifically we studied how the inner processes sounds into electrical signals using methods from non-equilibrium statistical mechanics. I additionally collaborated with Professor [William Speier](https://mii.ucla.edu/people/wspeier/) on a brain-machine interface project where we worked towards translating neural signals to text using machine learning and deep learning techniques.
 
 My interests lie at the intersection of statistical mechanics, machine learning and neuroscience.
 
-Prior to this, I graduated with a B.Tech from Indian Institute of Technology, Bombay majoring in Engineering Physics and with a minor in Electrical Engineering. During that time I have had the wonderful opportunity to intern at the Indian Institute of Science (Bangalore), Ecole Polytechnique de Laussane (Switzerland) and Tata Institute of Fundamental Research (Bombay).
+Prior to this, I graduated with a B.Tech from Indian Institute of Technology, Bombay majoring in Engineering Physics and with a minor in Electrical Engineering.
+
+My complete CV can be found [here](https://ucla.academia.edu/janakisheth/CurriculumVitae).
