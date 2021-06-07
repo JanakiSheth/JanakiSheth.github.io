@@ -26,4 +26,4 @@ My interests lie at the intersection of statistical mechanics, machine learning 
 
 Prior to this, I graduated with a B.Tech from Indian Institute of Technology, Bombay majoring in Engineering Physics and with a minor in Electrical Engineering.
 
-My resume can be found [here](https://www.dropbox.com/s/29gw4zs19ocuvnr/2021-04-22%20Janaki%20Sheth%20resume.pdf?dl=0) and complete academic CV [here](https://www.dropbox.com/home/job%20search?preview=2021-06-06+Janaki+Sheth+academic+cv.pdf).
+My resume can be found [here](https://www.dropbox.com/s/29gw4zs19ocuvnr/2021-04-22%20Janaki%20Sheth%20resume.pdf?dl=0) and complete academic CV [here](https://www.dropbox.com/s/o2b55i9d0fdbhc7/2021-06-06%20Janaki%20Sheth%20academic%20cv.pdf?dl=0).
