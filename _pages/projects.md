@@ -6,16 +6,22 @@ years: [2018]
 # description: A growing collection of your cool projects.
 ---
 
-### Development of a BCI interface for translation of neural signals to text
-Visiting Graduate Student, Brain Computer Interface Lab, UCLA <br> July 2018 - Present <br>
+### Neural basis for auditory categorization
+Advisors: Maria Geffen, Yale Cohen and Konrad Kording
 
-Analyzed multi-electrode ECoG data using supervised learning to detect novel features encapsulating speech production information. Additionally implemented a deep RNN and a temporal language model to identify underlying phonemes and generate text.
+- Researching perceptual mechanisms underlying the relevance of stimuli in decision making, particularly as applied to auditory categorization, using Bayesian modelling and GLMs.
+- Investigating the role of interneurons in auditory processing in the cortex through analysis of optogenetically-obtained noisy single-cell and neural network data.
 
 ### Thesis Research: Auditory system processing and neuroscience
-Co-affiliated with the Audition lab and the Bhaumik Institute, UCLA <br>
+Co-affiliated with the Audition lab and the Bhaumik Institute, UCLA
 
-<br> Non-equilibrium statistical mechanics of fluctuations in the inner ear<br>
+[Fluctuation analysis of nonequilibrium limit cycle oscillators : Application to hair cells](https://escholarship.org/uc/item/66v0t1c6) <br>
 Developed a general framework to study effects of stochasticity on non-equilibrium active limit cycle oscillators, specifically inner ear hair bundles, using principles drawn from dynamical systems and statistical mechanics. This framework advances our understanding of fluctuation theorems and how they may be used to probe complex biological systems.
+
+### Development of a BCI interface for translation of neural signals to text
+Visiting Graduate Student, Brain Computer Interface Lab, UCLA <br> July 2018 - Jan 2020 <br>
+
+Analyzed multi-electrode ECoG data using supervised learning to detect novel features encapsulating speech production information. Additionally implemented a deep RNN and a temporal language model to identify underlying phonemes and generate text.
 
 ### Comparison of different deep neural network architectures in decoding speech-producing neural signals
 Advisor: Jonathan Kao (Course: ECE 293AS)

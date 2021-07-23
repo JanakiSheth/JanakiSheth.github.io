@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title:  Janaki Sheth
-description: <a href="">PhD Candidate in Physics and visiting graduate student at Brain Computer Interface Lab at UCLA</a>.
+description: <a href="">Postdoctoral Fellow at Perelman School of Medicine, University of Pennsylvania</a>.
 
 profile:
   align: right
