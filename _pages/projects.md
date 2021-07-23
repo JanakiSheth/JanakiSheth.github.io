@@ -13,7 +13,7 @@ Researching perceptual mechanisms underlying the relevance of stimuli in decisio
 Investigating the role of interneurons in auditory processing in the cortex through analysis of optogenetically-obtained noisy single-cell and neural network data.
 
 ### Thesis Research: Auditory system processing and neuroscience
-Co-affiliated with the Audition lab and the Bhaumik Institute, UCLA
+Co-affiliated with the Audition lab and the Bhaumik Institute, UCLA<br>
 Advisors: Dolores Bozovic and Alex Levine
 
 [Fluctuation analysis of nonequilibrium limit cycle oscillators : Application to hair cells](https://escholarship.org/uc/item/66v0t1c6) <br>
