@@ -6,17 +6,21 @@ title: Publications
 
 ### Journal Papers
 
-* [Noise-induced distortion of nonequilibrium oscillator mean limit cycle](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062124) <br> J. Sheth, D. Bozovic, A.J. Levine. <br>*Phys. Rev. E 99, 062124,* 2019
+* [Violation of generalized fluctuation-dissipation theorem in biological limit cycle oscillators with state-dependent internal drives: Applications to hair cell oscillations](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.023150) <br> 	J. Sheth, D. Bozovic, A.J. Levine. <br> *PRResearch 3, 023150* 2021
+
+* [Generalizing neural signal-to-text brain-computer interfaces](https://iopscience.iop.org/article/10.1088/2057-1976/abf6ab/meta) <br> 	J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier <br> *Biomedical Physics & Engineering Express 7, 035023* 2021
+
+* [Noise-induced distortion of nonequilibrium oscillator mean limit cycle](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062124) <br> J. Sheth, D. Bozovic, A.J. Levine. <br>*PRE 99, 062124,* 2019
 
 * [Nonequilibrium limit-cycle oscillators: Fluctuations in hair bundle
-  dynamics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062411) <br> 	J. Sheth, S.W.F. Meenderink, P. Qui\~nones, D. Bozovic, A.J. Levine. <br>*Phys. Rev. E 97, 062411,* 2018
+  dynamics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062411) <br> 	J. Sheth, S.W.F. Meenderink, P. Qui\~nones, D. Bozovic, A.J. Levine. <br>*PRE 97, 062411,* 2018
 
-* [Translating neural signals to text using a Brain-Machine Interface](https://arxiv.org/abs/1907.04265) <br> 	J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier <br> *Under review, Arxiv preprint,* 2019
-
-* [Violation of generalized fluctuation theorems in adaptively driven steady states: Applications to hair cell oscillations](https://arxiv.org/abs/2002.11854) <br> 	J. Sheth, D. Bozovic, A.J. Levine. <br> *Under review, Arxiv preprint,* 2020
 
 ### Peer-reviewed Conferences
-* [Translating neural singals to text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*Selected to appear at NeurIPS Workshop on Neuro+AI,* 2019
+
+* [Bootstrapping Multilingual AMR with Contextual Word Alignments](https://aclanthology.org/2021.eacl-main.30.pdf) <br> J. Sheth, Y.S. Lee, R. F. Astudillo, T. Naseem, R. Florian, S. Roukos, T. Ward <br>*Proceedings of EACL,* 2021
+
+* [Translating neural singals to text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*NeurIPS Workshop on Neuro+AI,* 2019
 
 * [Identifying input features for development of real-time translation of neural signals to text](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3092.pdf) <br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
 
