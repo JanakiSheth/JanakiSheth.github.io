@@ -24,14 +24,15 @@ title: Publications
 
 * [Identifying input features for development of real-time translation of neural signals to text](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3092.pdf) <br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
 
-* [Translating neural signals to text using a Brain-Machine Interface](https://ghc.anitab.org/2019-attend/schedule-overview/poster-session/#hci) <br> J. Sheth <br>*Grace Hopper Celebration Abstracts,* 2019
-
 * [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2012
 
 ### Talks
 
 * Department Physics Colloquium (invited) <br>
 *York University, Toronto,* 2021
+
+* Using the fluctuation-response relations in biological limit-cycle oscillators to interrogate active feedback and control mechanisms <br>
+*American Physical Society Meeting, Online* 2021  <br>
 
 * Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br>
 *American Physical Society Meeting, Denver* 2020  <br>
@@ -51,24 +52,33 @@ title: Publications
 
 ### Poster presentations
 
-* Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br> *International Physics of Living Systems Meeting, Georgia Tech (held online due to Covid)* 2020
+* The interplay between uncertainty and relevance in sound categorization <br> *Gordon Research Symposium and Conference,* 2022
 
-* Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br> *Berkeley State Mech meeting, UCB* 2020
+* The interplay between uncertainty and relevance in sound categorization <br> *Society For Neuroscience,* 2021
+
+* Differential function of distinct inhibitory neuronal types in cortical networks <br> *Advances and Perspectives in Auditory Neuroscience,* 2021
+
+* Differential function of distinct inhibitory neuronal types in cortical networks <br> *Society for Neuroscience,* 2021
+
+* Role of contextual word alignments in multilingual Abstract Meaning Representation <br> *Grace Hopper Celebration,* 2021
+
+* Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br> *International Physics of Living Systems Meeting, Georgia Tech (held online due to Covid),* 2020
+
+* Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br> *Berkeley State Mech meeting, UCB,* 2020
 
 * Translating neural signals to text using a Brain-Machine Interface <br> *UC AI Biomed Conference, UCLA* 2019
 
+*  Identifying input features for development of real-time translation of neural signals to text <br> *Speech Processing and Auditory Perception Lab, UCLA,* 2019
+
 * Translating neural signals to text using a Brain-Machine Interface <br> *Joint Symposium on Neural Computation, USC,* 2019
 
-* Effects of stochasticity in nonequilibrium limit cycle oscillators <br>*International Conference in
-  Advances in Physics of Emergent orders in Fluctuations,* 2018
+* Effects of stochasticity in nonequilibrium limit cycle oscillators <br>*APEF International Conference,  Tokyo,* 2018
 
 * Using a fluctuation analysis of limit cycle oscillations in inner ear hair
-  bundles as a new test of low dimensional dynamical models <br> *41st Association for Research in
-  Otolaryngology Winter Meeting,* 2018
+  bundles as a new test of low dimensional dynamical models <br> *41st Association for Research in Otolaryngology Winter Meeting,* 2018
 
 * Using a fluctuation analysis of limit cycle oscillations in inner ear hair
-  bundles as a new test of low dimensional dynamical models <br>*62nd Biophysical Society Annual
-  Meeting,* 2018
+  bundles as a new test of low dimensional dynamical models <br>*62nd Biophysical Society Annual Meeting,* 2018
 
 * Generalized Fluctuation-Dissipation Theorem as applied to active inner ear
   hair bundles <br> *61st Biophysical Society Annual Meeting,* 2017
