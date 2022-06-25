@@ -30,6 +30,9 @@ title: Publications
 
 ### Talks
 
+* Department Physics Colloquium (invited) <br>
+*York University, Toronto,* 2021
+
 * Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br>
 *American Physical Society Meeting, Denver* 2020  <br>
 (awarded the Shirley Chan student travel grant, APS DBio division and was a finalist, Student speaker award, APS GSNP division)
