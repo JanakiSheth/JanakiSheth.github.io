@@ -7,10 +7,18 @@ years: [2018]
 ---
 
 ### Neural basis for auditory categorization
+Perelman school of Medicine. UPenn <br> Septmeber 2020 - Present <br>
 Advisors: Maria Geffen, Yale Cohen and Konrad Kording
 
-Researching perceptual mechanisms underlying the relevance of stimuli in decision making, particularly as applied to auditory categorization, using Bayesian modelling and GLMs.
-Investigating the role of interneurons in auditory processing in the cortex through analysis of optogenetically-obtained noisy single-cell and neural network data.
+1. Establish mechanisms underlying human perceptual decision-making using Bayesian models and generlaized linear models.
+
+2. Investigate role of inhibitory neurons in auditory processing in the brain through multi-level analysis of neural network data.
+
+### Research Internship: Natural Language Processing
+IBM Watson <br> Summer 2020 <br>
+Advisor: Young-suk Lee
+
+Developed and trained multilingual AMR system using weak supervised learning within a large PyTorch codebase. Achieved highly competitive performance that surpassed SOTA in German, Spanish, Italian and Chinese.
 
 ### Thesis Research: Auditory system processing and neuroscience
 Co-affiliated with the Audition lab and the Bhaumik Institute, UCLA<br>
@@ -31,31 +39,25 @@ Advisor: Jonathan Kao (Course: ECE 293AS)
 Compared and critiqued performances (in Pytorch) using CNNs, bi-directional LSTMs and Autoencoders to map multi-electrode neural signals onto speech phonemes.
 
 ### Speech recognition and speaker verification
-
 Advisor: Abeer Alwan (Courses: EE 241A and EE 241B)<br>
 
-Robustness of features and models for text-dependent speaker verification <br>
-
+1. Robustness of features and models for text-dependent speaker verification <br>
 Investigated speaker-dependent features and classifiers such as SVM and GMM, for speaker verification under constraints of noisy environments and short utterances.
 
-Digit recognition under noisy and gender mismatch conditions<br>
-
+2. Digit recognition under noisy and gender mismatch conditions<br>
 Developed algorithm to address mismatch conditions in an automatic speech recognition task using hidden markov models. Experience using HTK toolkit.
 
 ### Reconstruction of the shape of a deformed interface
-
 Soft Matter Physics group, TIFR <br>
 
 Designed and implemented an algorithm to reconstruct the shape of a deformed interface (water surface with floating metallic micro-sphere) over a large spatial range.
 
 ### Study of spin-injection into electrolytes
-
 Physics of Nanostructured Materials Lab, EPFL <br>
 
  Developed and characterized techniques to study dynamic nuclear polarization using passage of spin currents through ferro-magnetic electrodes.
 
 ### Micromagnetic simulation of magnetic reversal in magnetic nanodisks
-
 Spintronics and Thin Film Magnetism Lab, IISc <br>
 
 Investigated  through numerical simulations, the optimization of bit-patterned media for storage of information in hard disk magnetic material.
