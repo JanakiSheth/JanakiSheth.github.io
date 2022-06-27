@@ -7,7 +7,7 @@ years: [2018]
 ---
 
 ### Neural basis for auditory categorization
-Perelman school of Medicine. UPenn <br> Septmeber 2020 - Present <br>
+Perelman school of Medicine, UPenn <br> Septmeber 2020 - Present <br>
 Advisors: Maria Geffen, Yale Cohen and Konrad Kording
 
 1. Establish mechanisms underlying human perceptual decision-making using Bayesian models and generlaized linear models.
@@ -22,6 +22,7 @@ Developed and trained multilingual AMR system using weak supervised learning wit
 
 ### Thesis Research: Auditory system processing and neuroscience
 Co-affiliated with the Audition lab and the Bhaumik Institute, UCLA<br>
+September 2014 - August 2020 <br>
 Advisors: Dolores Bozovic and Alex Levine
 
 [Fluctuation analysis of nonequilibrium limit cycle oscillators : Application to hair cells](https://escholarship.org/uc/item/66v0t1c6) <br>
@@ -34,12 +35,12 @@ Advisor: William Speier
 Analyzed multi-electrode ECoG data using supervised learning to detect novel features encapsulating speech production information. Additionally implemented a deep RNN and a temporal language model to identify underlying phonemes and generate text.
 
 ### Comparison of different deep neural network architectures in decoding speech-producing neural signals
-Advisor: Jonathan Kao (Course: ECE 293AS)
+UCLA Course: ECE 293AS <br> Advisor: Jonathan Kao
 
 Compared and critiqued performances (in Pytorch) using CNNs, bi-directional LSTMs and Autoencoders to map multi-electrode neural signals onto speech phonemes.
 
 ### Speech recognition and speaker verification
-Advisor: Abeer Alwan (Courses: EE 241A and EE 241B)<br>
+UCLA Courses: EE 241A and EE 241B <br> Advisor: Abeer Alwan
 
 1. Robustness of features and models for text-dependent speaker verification <br>
 Investigated speaker-dependent features and classifiers such as SVM and GMM, for speaker verification under constraints of noisy environments and short utterances.
@@ -47,17 +48,14 @@ Investigated speaker-dependent features and classifiers such as SVM and GMM, for
 2. Digit recognition under noisy and gender mismatch conditions<br>
 Developed algorithm to address mismatch conditions in an automatic speech recognition task using hidden markov models. Experience using HTK toolkit.
 
-### Reconstruction of the shape of a deformed interface
-Soft Matter Physics group, TIFR <br>
-
-Designed and implemented an algorithm to reconstruct the shape of a deformed interface (water surface with floating metallic micro-sphere) over a large spatial range.
-
 ### Study of spin-injection into electrolytes
 Physics of Nanostructured Materials Lab, EPFL <br>
+Summer 2013 <br>
 
- Developed and characterized techniques to study dynamic nuclear polarization using passage of spin currents through ferro-magnetic electrodes.
+Developed and characterized techniques to study dynamic nuclear polarization using passage of spin currents through ferro-magnetic electrodes.
 
 ### Micromagnetic simulation of magnetic reversal in magnetic nanodisks
 Spintronics and Thin Film Magnetism Lab, IISc <br>
+Summer 2012 <br>
 
 Investigated  through numerical simulations, the optimization of bit-patterned media for storage of information in hard disk magnetic material.
