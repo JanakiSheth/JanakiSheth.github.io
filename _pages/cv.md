@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   cv : cv.pdf
   address: >
-    <p>A-429 Physics UCLA</p>
-    <p>475 Portola Plaza</p>
-    <p>Los Angeles, CA 90095</p>  
+  <p>Stemmler Hall G10</p>
+  <p>3450 Hamilton Walk</p>
+  <p>Philadelphia, PA - 19146</p>  
 
 news: false
 social: true
