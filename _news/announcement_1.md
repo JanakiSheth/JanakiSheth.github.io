@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-08-11
 inline: true
 ---
 
-A simple inline announcement.
+Had a wonderful experience TA-ing the 2022 Cajal Course for Computational Neuroscience (photos!) and also learning from experts in the field.

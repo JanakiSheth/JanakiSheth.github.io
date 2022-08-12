@@ -12,7 +12,7 @@ profile:
     <p>3450 Hamilton Walk</p>
     <p>Philadelphia, PA - 19146</p>  
 
-news: false
+news: true
 social: true
 header: true
 ---
