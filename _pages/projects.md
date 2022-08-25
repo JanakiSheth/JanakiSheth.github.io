@@ -6,11 +6,11 @@ years: [2018]
 # description: A growing collection of your cool projects.
 ---
 
-### Neural basis for auditory categorization
+### Neural basis for auditory processing
 Perelman school of Medicine, UPenn <br> Septmeber 2020 - Present <br>
 Advisors: Maria Geffen, Yale Cohen and Konrad Kording
 
-1. Establish mechanisms underlying human perceptual decision-making using Bayesian models and generlaized linear models.
+1. Design experiments and establish mechanisms underlying human perceptual decision-making using Bayesian models and generalized linear models.
 
 2. Investigate role of inhibitory neurons in auditory processing in the brain through multi-level analysis of neural network data.
 

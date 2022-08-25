@@ -12,11 +12,12 @@ title: Publications
 
 * [Noise-induced distortion of nonequilibrium oscillator mean limit cycle](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062124) <br> J. Sheth, D. Bozovic, A.J. Levine. <br>*PRE 99, 062124,* 2019
 
-* [Nonequilibrium limit-cycle oscillators: Fluctuations in hair bundle
-  dynamics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062411) <br> 	J. Sheth, S.W.F. Meenderink, P. Qui\~nones, D. Bozovic, A.J. Levine. <br>*PRE 97, 062411,* 2018
+* [Nonequilibrium limit-cycle oscillators: Fluctuations in hair bundle dynamics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062411) <br> 	J. Sheth, S.W.F. Meenderink, P. Qui\~nones, D. Bozovic, A.J. Levine. <br>*PRE 97, 062411,* 2018
 
 
 ### Peer-reviewed Conferences
+
+* [Relevance, uncertainty, and expectations affect categorization](https://2022.ccneuro.org/proceedings/0000196.pdf) <br>  J.Sheth, J. Collina, K. Kording. Y. Cohen, M. Geffen <br> *Proceedings of CCN,* 2022
 
 * [Bootstrapping Multilingual AMR with Contextual Word Alignments](https://aclanthology.org/2021.eacl-main.30.pdf) <br> J. Sheth, Y.S. Lee, R. F. Astudillo, T. Naseem, R. Florian, S. Roukos, T. Ward <br>*Proceedings of EACL,* 2021
 
@@ -27,6 +28,9 @@ title: Publications
 * [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2012
 
 ### Talks
+
+* Relevance, integration and learning influence auditory categorization (invited) <br>
+*Li lab, NIEHS* 2022
 
 * Department Physics Colloquium (invited) <br>
 *York University, Toronto,* 2021
