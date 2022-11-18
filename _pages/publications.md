@@ -19,13 +19,17 @@ title: Publications
 
 * [Relevance, uncertainty, and expectations affect categorization](https://2022.ccneuro.org/proceedings/0000196.pdf) <br>  J.Sheth, J. Collina, K. Kording. Y. Cohen, M. Geffen <br> *Proceedings of CCN,* 2022
 
+* Lessons From Organising The Diversity And Equity Initiative At University Of Pennsylvania (selected to give a lightning talk) <br> J. Sheth <br> *Grace Hopper Celebration,* 2022
+
 * [Bootstrapping Multilingual AMR with Contextual Word Alignments](https://aclanthology.org/2021.eacl-main.30.pdf) <br> J. Sheth, Y.S. Lee, R. F. Astudillo, T. Naseem, R. Florian, S. Roukos, T. Ward <br>*Proceedings of EACL,* 2021
+
+* Role of contextual word alignments in multilingual Abstract Meaning Representation <br>  J. Sheth <br> *Grace Hopper Celebration,* 2021
 
 * [Translating neural singals to text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*NeurIPS Workshop on Neuro+AI,* 2019
 
 * [Identifying input features for development of real-time translation of neural signals to text](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3092.pdf) <br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
 
-* [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2012
+* [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2013
 
 ### Talks
 
@@ -63,8 +67,6 @@ title: Publications
 * Differential function of distinct inhibitory neuronal types in cortical networks <br> *Advances and Perspectives in Auditory Neuroscience,* 2021
 
 * Differential function of distinct inhibitory neuronal types in cortical networks <br> *Society for Neuroscience,* 2021
-
-* Role of contextual word alignments in multilingual Abstract Meaning Representation <br> *Grace Hopper Celebration,* 2021
 
 * Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br> *International Physics of Living Systems Meeting, Georgia Tech (held online due to Covid),* 2020
 
