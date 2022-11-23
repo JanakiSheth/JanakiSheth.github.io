@@ -8,6 +8,8 @@ Grant Reviewer, DEI reviewer for grants and finance committee, National Science 
 
 [Co-organizer](https://docs.google.com/presentation/d/1w_Twb0VZlkCKuArOoUXYnwEyaOpuPNK_kQQCuUWcxOI/edit#slide=id.p), Science Policy 101 Workshop, PSPDG UPenn (Fall 2022)
 
+[Reviewer](https://ghc.anitab.org/get-involved/vghc-21-committees/), Data Science Track, Grace Hopper Celebration (2021-2022)
+
 [Co-organizer](https://web.sas.upenn.edu/dive/staff/), 2021 and 2022 MindCORE Diversity and Equity Initiative weekend (Admissions and Data; Outcomes Committees) (Oct 2020 - Oct 2022)
 
 [Organizer](https://conferences.pa.ucla.edu/cuwip-ucla/organizers.html) for Industry panel and Career fair, APS Conference for Undergraduate Women in Physics held at UCLA (2017)
