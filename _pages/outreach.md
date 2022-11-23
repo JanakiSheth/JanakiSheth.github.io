@@ -3,7 +3,7 @@ layout: page
 permalink: /outreach/
 title: Teaching, Mentorship and Outreach
 ---
-## Outreach
+### Outreach
 Grant Reviewer, DEI reviewer for grants and finance committee, National Science Policy Network (Fall 2022)
 
 [Co-organizer](https://docs.google.com/presentation/d/1w_Twb0VZlkCKuArOoUXYnwEyaOpuPNK_kQQCuUWcxOI/edit#slide=id.p), Science Policy 101 Workshop, PSPDG UPenn (Fall 2022)
@@ -16,7 +16,7 @@ Grant Reviewer, DEI reviewer for grants and finance committee, National Science 
 
 Outreach co-coordinator and academic mentor, Avanti Fellows, a higher education non-profit in Bombay, India (2012-2014)
 
-## Mentorship
+### Mentorship
 Project Mentor, Neuromatch Computational Neuroscience Summer School (July 2022)
 
 Graduate student mentor<br>
@@ -26,7 +26,7 @@ UCLA Physics Department *Mentee: Yilian Zhan* (Winter 2020)
 Undergrad student mentor<br>
 Grad-undergrad mentorship program, UCLA Physics Dept *Mentees: Jena Shields, Vera Fan (currently at Northwestern BME)* (2019-2020)
 
-## Teaching
+### Teaching
 [Teaching Assistant](https://cajal-training.org/on-site/ccn2022/), Cajal summer school for computational neuroscience (July 2022)
 
 Teaching Assistant, Neuromatch Deep Learning Summer School (Aug 2021)
