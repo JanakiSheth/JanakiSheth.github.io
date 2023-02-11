@@ -40,35 +40,40 @@ Piasini, K. Kording, Y. Cohen, M. Geffen. <br> *Biorxiv* 2022
 ### Talks
 
 * Machine Learning and Signal Processing Techniques (invited) <br>
-*Tsui lab, CHOP, UPenn* 2023
+*Tsui lab, CHOP - UPenn,* 2023
 
 * Relevance, integration and learning influence auditory categorization (invited) <br>
-*Analog Garage, Boston* 2022 
+*Analog Garage, Boston,* 2022 
 
 * Relevance, integration and learning influence auditory categorization (invited) <br>
-*Li lab, NIEHS* 2022
+*Li lab, NIEHS,* 2022
 
 * Department Physics Colloquium (invited) <br>
 *York University, Toronto,* 2021
 
 * Using the fluctuation-response relations in biological limit-cycle oscillators to interrogate active feedback and control mechanisms <br>
-*American Physical Society Meeting, Online* 2021  <br>
+*American Physical Society Meeting, Online,* 2021  <br>
 
 * Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br>
-*American Physical Society Meeting, Denver* 2020  <br>
+*American Physical Society Meeting, Denver,* 2020  <br>
 (awarded the Shirley Chan student travel grant, APS DBio division and was a finalist, Student speaker award, APS GSNP division)
 
-* Mapping neural signals to text and Fluctuation analysis of the inner ear's active dynamics (invited) <br>*Computational Neuroscience Initiative Seminar, UPenn,* 2019
+* Mapping neural signals to text and Fluctuation analysis of the inner ear's active dynamics (invited) 
+<br>*Computational Neuroscience Initiative Seminar, UPenn,* 2019
 
-* Fluctuation analysis of the inner ear's active dynamics (invited) <br> *Otolaryngology - Head and Neck Surgery Divisions, Stanford,* 2019
+* Fluctuation analysis of the inner ear's active dynamics (invited) <br> *Otolaryngology - Head and Neck Surgery 
+Divisions, Stanford,* 2019
 
-* Mapping neural signals to text and Fluctuation analysis of the inner ear's active dynamics (invited) *Chang Lab, UCSF,* 2019
+* Mapping neural signals to text and Fluctuation analysis of the inner ear's active dynamics (invited) *Chang Lab, 
+UCSF,* 2019
 
 * Fluctuation analysis of non-equilibrium dynamics in the inner ear and Mapping speech-inducing neural signals onto underlying phonemes (invited)<br> *Bhaumik Luncheon Young Scientists Seminar, Physics Dept., UCLA,* 2019
 
-* Deformation of nonequilibrium limit cycle oscillators due to stochasticity <br>J. Sheth, D. Bozovic, A. Levine <br> *American Physical Society Meeting,* 2019
+* Deformation of nonequilibrium limit cycle oscillators due to stochasticity <br>J. Sheth, D. Bozovic, A. Levine <br> 
+*American Physical Society Meeting, Boston,* 2019
 
-* Using a fluctuation analysis of limit cycle oscillations in inner ear hair bundles as a new test of low dimensional dynamical models <br>J. Sheth, D. Bozovic, A. Levine.<br> *American Physical Society Meeting,* 2018
+* Using a fluctuation analysis of limit cycle oscillations in inner ear hair bundles as a new test of low dimensional 
+dynamical models <br>J. Sheth, D. Bozovic, A. Levine.<br> *American Physical Society Meeting, Los Angeles,* 2018
 
 ### Poster presentations
 
