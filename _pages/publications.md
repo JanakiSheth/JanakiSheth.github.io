@@ -6,6 +6,9 @@ title: Publications
 
 ### Journal Papers
 
+* [The interplay of uncertainty, relevance and learning influences auditory categorization](https://www.biorxiv.org/content/10.1101/2022.12.01.518777v1) <br> J. Sheth, J. Collina, E. 
+Piasini, K. Kording, Y. Cohen, M. Geffen. *Biorxiv* 2022
+
 * [Violation of generalized fluctuation-dissipation theorem in biological limit cycle oscillators with state-dependent internal drives: Applications to hair cell oscillations](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.023150) <br> 	J. Sheth, D. Bozovic, A.J. Levine. <br> *PRResearch 3, 023150* 2021
 
 * [Generalizing neural signal-to-text brain-computer interfaces](https://iopscience.iop.org/article/10.1088/2057-1976/abf6ab/meta) <br> 	J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier <br> *Biomedical Physics & Engineering Express 7, 035023* 2021
