@@ -6,8 +6,11 @@ title: Publications
 
 ### Journal Papers
 
+* [Localist versus distributed representation of sounds in the auditory cortex controlled by distinct inhibitory neuronal 
+subtypes](https://www.biorxiv.org/content/10.1101/2023.02.01.526470v1) <br> M. Tobin, J. Sheth, K. Wood, M. Geffen. <br> *Biorxiv* 2023
+
 * [The interplay of uncertainty, relevance and learning influences auditory categorization](https://www.biorxiv.org/content/10.1101/2022.12.01.518777v1) <br> J. Sheth, J. Collina, E. 
-Piasini, K. Kording, Y. Cohen, M. Geffen. *Biorxiv* 2022
+Piasini, K. Kording, Y. Cohen, M. Geffen. <br> *Biorxiv* 2022
 
 * [Violation of generalized fluctuation-dissipation theorem in biological limit cycle oscillators with state-dependent internal drives: Applications to hair cell oscillations](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.023150) <br> 	J. Sheth, D. Bozovic, A.J. Levine. <br> *PRResearch 3, 023150* 2021
 
@@ -35,6 +38,12 @@ Piasini, K. Kording, Y. Cohen, M. Geffen. *Biorxiv* 2022
 * [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2013
 
 ### Talks
+
+* Machine Learning and Signal Processing Techniques (invited) <br>
+*Tsui lab, CHOP, UPenn* 2023
+
+* Relevance, integration and learning influence auditory categorization (invited) <br>
+*Analog Garage, Boston* 2022 
 
 * Relevance, integration and learning influence auditory categorization (invited) <br>
 *Li lab, NIEHS* 2022
