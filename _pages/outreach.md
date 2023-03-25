@@ -4,6 +4,10 @@ permalink: /outreach/
 title: Teaching, Mentorship and Outreach
 ---
 ### Outreach
+
+[Team Lead for Audition Station](https://drive.google.com/drive/folders/1Csdhgg_frCQJ_L-vKSmbUM1zmVCtQeK0?usp=sharing), Kids Judge, a UPenn 
+outreach for elementary school kids from West Philadelphia (Spring 2023)
+
 Grant Reviewer, DEI reviewer for grants and finance committee, National Science Policy Network (Fall 2022)
 
 [Co-organizer](https://docs.google.com/presentation/d/1w_Twb0VZlkCKuArOoUXYnwEyaOpuPNK_kQQCuUWcxOI/edit#slide=id.p), Science Policy 101 Workshop, PSPDG UPenn (Fall 2022)
