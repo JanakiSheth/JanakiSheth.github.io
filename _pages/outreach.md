@@ -35,5 +35,6 @@ Grad-undergrad mentorship program, UCLA Physics Dept *Mentees: Jena Shields, Ver
 
 Teaching Assistant, Neuromatch Deep Learning Summer School (Aug 2021)
 
-Teaching assistant at UCLA ([Student evaluations](https://www.dropbox.com/home/jobSearch?preview=UCLAStudentReviewsCompiled.pdf)) <br>
+Teaching assistant at UCLA ([Student 
+evaluations](https://www.dropbox.com/s/xvwspxx7ytg2idc/UCLAStudentReviewsCompiled.pdf?dl=0)) <br>
 Physics courses in Mechanics; Electricity and Magnetism; and Thermodynamics, Fluids and Optics.

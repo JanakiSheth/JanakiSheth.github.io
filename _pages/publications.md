@@ -33,7 +33,9 @@ Piasini, K. Kording, Y. Cohen, M. Geffen. <br> *Biorxiv* 2022
 
 * [Translating neural singals to text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*NeurIPS Workshop on Neuro+AI,* 2019
 
-* [Identifying input features for development of real-time translation of neural signals to text](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3092.pdf) <br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
+* [Identifying input features for development of real-time translation of neural signals to 
+text](https://www.isca-speech.org/archive/interspeech_2019/sheth19_interspeech.html) 
+<br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
 
 * [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2013
 
