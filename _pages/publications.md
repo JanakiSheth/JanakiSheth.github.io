@@ -37,7 +37,9 @@ Piasini, K. Kording, Y. Cohen, M. Geffen. <br> *Biorxiv* 2022
 text](https://www.isca-speech.org/archive/interspeech_2019/sheth19_interspeech.html) 
 <br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
 
-* [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2013
+* [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano 
+Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth, D. 
+Venkateswarlu, P.S. Anil Kumar <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2013
 
 ### Talks
 
@@ -55,6 +57,9 @@ text](https://www.isca-speech.org/archive/interspeech_2019/sheth19_interspeech.h
 
 * Using the fluctuation-response relations in biological limit-cycle oscillators to interrogate active feedback and control mechanisms <br>
 *American Physical Society Meeting, Online,* 2021  <br>
+
+* Bootstrapping Multilingual AMR with contextualized word embeddings (invited) <br>
+*NLP Seminar, IBM Watson,* 2020
 
 * Noisy driven oscillators: Adaptive drives break the fluctuation-dissipation theorem <br>
 *American Physical Society Meeting, Denver,* 2020  <br>
