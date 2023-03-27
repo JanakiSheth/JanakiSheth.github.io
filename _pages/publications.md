@@ -25,11 +25,16 @@ Piasini, K. Kording, Y. Cohen, M. Geffen. <br> *Biorxiv* 2022
 
 * [Relevance, uncertainty, and expectations affect categorization](https://2022.ccneuro.org/proceedings/0000196.pdf) <br>  J.Sheth, J. Collina, K. Kording. Y. Cohen, M. Geffen <br> *Proceedings of CCN,* 2022
 
-* Lessons From Organising The Diversity And Equity Initiative At University Of Pennsylvania (selected to give a lightning talk) <br> J. Sheth <br> *Grace Hopper Celebration,* 2022
+* Lessons From Organising The Diversity And Equity Initiative At University Of Pennsylvania <br> J. Sheth <br> 
+*Grace Hopper Celebration,* 2022 <br> (selected to give a lightning talk)
 
-* [Bootstrapping Multilingual AMR with Contextual Word Alignments](https://aclanthology.org/2021.eacl-main.30.pdf) <br> J. Sheth, Y.S. Lee, R. F. Astudillo, T. Naseem, R. Florian, S. Roukos, T. Ward <br>*Proceedings of EACL,* 2021
+* [Bootstrapping Multilingual AMR with Contextual Word 
+Alignments](https://aclanthology.org/2021.eacl-main.30.pdf) <br> J. Sheth, Y.S. Lee, R. F. Astudillo, T. 
+Naseem, R. Florian, S. Roukos, T. Ward <br>*Proceedings of EACL,* 2021 <br> (selected to give a talk - 5% 
+acceptance rate)
 
-* Role of contextual word alignments in multilingual Abstract Meaning Representation <br>  J. Sheth <br> *Grace Hopper Celebration,* 2021
+* Role of contextual word alignments in multilingual Abstract Meaning Representation <br>  J. Sheth <br> *Grace 
+Hopper Celebration,* 2021 <br>  (awarded Google scholarship to attend conference)
 
 * [Translating neural singals to text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*NeurIPS Workshop on Neuro+AI,* 2019
 
